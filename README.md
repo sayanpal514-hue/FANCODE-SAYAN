@@ -89,7 +89,3 @@ We encourage developers and enthusiasts to:
 </div>
 
 ---
-
-<div align="center">
-<sub>Data sourced from <a href="https://github.com/drmlive/fancode-live-events">drmlive/fancode-live-events</a> · Site by Sayan Pal</sub>
-</div>
